@@ -1,0 +1,9 @@
+Firewall: UFW
+Status: Active
+
+Default incoming: Deny
+Default outgoing: Allow
+
+Allowed rules:
+HTTP  - TCP 80 - 192.168.56.0/24
+SSH   - TCP 22 - 192.168.56.0/24
