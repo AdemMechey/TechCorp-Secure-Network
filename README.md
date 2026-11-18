@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TechCorp — Secure Enterprise Network
 
 ## 1. Project Overview
@@ -119,3 +120,7 @@ TechCorp-Secure-Network/
 ## 10. Conclusion
 
 This project demonstrates practical enterprise networking and Linux server administration, combining network segmentation, access control, network services, and a database-driven web application.
+=======
+# TechCorp-Secure-Network
+Secure Enterprise Network using Cisco Packet Tracer and Ubuntu
+>>>>>>> 716502ac65b142fe02d656861faf080d597bc8fe
